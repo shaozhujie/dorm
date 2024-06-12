@@ -1,0 +1,32 @@
+2024-03-15 20:44:32.506 [http-nio-8080-exec-8] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_room' doesn't exist
+### The error may exist in com/project/dorm/mapper/DormRoomMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(*) FROM dorm_room
+### Cause: java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_room' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_room' doesn't exist]
+2024-03-15 21:17:17.183 [http-nio-8080-exec-1] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_college' doesn't exist
+### The error may exist in com/project/dorm/mapper/DormCollegeMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(*) FROM dorm_college
+### Cause: java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_college' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_college' doesn't exist]
+2024-03-15 21:17:19.122 [http-nio-8080-exec-2] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_college' doesn't exist
+### The error may exist in com/project/dorm/mapper/DormCollegeMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(*) FROM dorm_college
+### Cause: java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_college' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_college' doesn't exist]
+2024-03-15 23:00:33.585 [http-nio-8080-exec-36] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_apply' doesn't exist
+### The error may exist in com/project/dorm/mapper/DormApplyMapper.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT COUNT(*) FROM dorm_apply
+### Cause: java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_apply' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'ape-dorm.dorm_apply' doesn't exist]
