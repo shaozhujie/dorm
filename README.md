@@ -1,6 +1,6 @@
 # SpringBoot+Vue的宿舍管理系统
 
-**有问题或获取源码可以咨询企鹅Q1760272627** 
+**有问题或获取源码可以咨询QQ1760272627** 
 
 **系统运行视频：**  https://www.bilibili.com/video/BV1iu4m1T7aV/
 
@@ -13,14 +13,4 @@ SpringBoot，shiro，Mybatis-plus，Vue，redis，mysql，ElementUi，echarts
 ### 工具：
 idea，vscode，navicat
 
-### 功能结构：
-![功能结构图](img/db2d615b40c432841765cb9572742f7.jpg)
-
-### 系统截图：
-![登录](image.png)
-![管理员](image1.png)
-![宿管员](image2.png)
-![学生](image3.png)
-
-
-**有问题或获取源码可以咨询企鹅Q1760272627** 
+**有问题或获取源码可以咨询QQ1760272627** 
